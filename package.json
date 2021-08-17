@@ -1,6 +1,6 @@
 {
   "name": "react-native-datecs-connector",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "React-Native plugin for the bluetooth DATECS printers.",
   "main": "index.js",
   "scripts": {
@@ -12,6 +12,6 @@
   "author": "Cria",
   "license": "",
   "peerDependencies": {
-    "react-native": "^0.59.9"
+    "react-native": ">=0.59"
   }
 }
